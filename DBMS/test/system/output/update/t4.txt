@@ -1,0 +1,3 @@
+(1, "user1", "user1@example.com", 10)
+(2, "user2", "user2@example.xyz", 20)
+(3, "user2", "user2@example.xyz", 20)

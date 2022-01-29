@@ -1,0 +1,4 @@
+insert into user 1 "user1" "user1@example.com" 10
+update user set email = "user1@example.xyz"
+select * from user
+.exit

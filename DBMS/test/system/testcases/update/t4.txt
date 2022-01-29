@@ -1,0 +1,6 @@
+insert into user 1 "user1" "user1@example.com" 10
+insert into user 2 "user2" "user2@example.com" 20
+insert into user 3 "user2" "user3@example.com" 20
+update user set email = "user2@example.xyz" where name = "user2"
+select * from user
+.exit

@@ -1,0 +1,6 @@
+(1, "user1", "user1@example.com", 10)
+(2, "user2", "user2@example.com", 20)
+(3, "user3", "user3@example.com", 30)
+(4, "user4", "user4@example.com", 40)
+(3, "user3", "Newuser3@example.com", 30)
+(4, "user4", "user4@example.com", 40)

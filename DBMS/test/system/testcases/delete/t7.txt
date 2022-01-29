@@ -1,0 +1,9 @@
+insert into user 1 "user1" "user1@example.com" 20
+insert into user 2 "user2" "user2@example.com" 23
+delete from user where age < 21
+insert into user 1 "user3" "user3@example.com" 24
+select * from user
+delete from user
+insert into user 4 "user4" "user4@example.com" 25
+select id from user
+.exit

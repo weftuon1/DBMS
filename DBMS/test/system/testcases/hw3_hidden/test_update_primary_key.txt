@@ -1,0 +1,9 @@
+insert into user 1 "user1" "user1@example.com" 10
+insert into user 2 "user2" "user2@example.com" 20
+insert into user 3 "user3" "user3@example.com" 30
+insert into user 4 "user4" "user4@example.com" 40
+update user set id = 5 where id = 3
+select * from user
+update user set id = 4
+select * from user
+.exit

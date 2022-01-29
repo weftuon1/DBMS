@@ -1,0 +1,6 @@
+insert into user 1 "user1" "user1@example.com" 20
+insert into user 2 "user2" "user2@example.com" 21
+insert into user 3 "user3" "user3@example.com" 22
+insert into user 4 "user4" "user4@example.com" 23
+select name from user
+.exit

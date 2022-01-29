@@ -1,0 +1,5 @@
+insert into user 1 "user1" "user1@example.com" 10
+insert into user 2 "user2" "user2@example.com" 20
+insert into user 3 "user3" "user3@example.com" 30
+select * from user where age != 10
+.exit

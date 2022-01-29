@@ -1,0 +1,752 @@
+insert into user 7453 "Jorey0" "Jorey0@nctu.edu" 36
+insert into user 4359 "Sheilah1" "Sheilah1@nctu.edu" 59
+insert into user 1811 "Filide1" "Filide1@nctu.edu" 48
+insert into user 11019 "Cornelia0" "Cornelia0@nctu.edu" 36
+insert into user 7133 "Hinda2" "Hinda2@nctu.edu" 33
+insert into user 5850 "Celle1" "Celle1@nctu.edu" 89
+insert into user 17362 "Joya1" "Joya1@nctu.edu" 83
+insert into user 9584 "Tillie1" "Tillie1@nctu.edu" 20
+insert into user 9898 "Abby0" "Abby0@nctu.edu" 36
+insert into user 5613 "Brenna1" "Brenna1@nctu.edu" 45
+insert into user 17199 "Jazmin2" "Jazmin2@nctu.edu" 71
+insert into user 4031 "Rebeca1" "Rebeca1@nctu.edu" 71
+insert into user 21960 "Hildagard2" "Hildagard2@nctu.edu" 42
+insert into user 24635 "Willabella2" "Willabella2@nctu.edu" 70
+insert into user 4794 "Vinita1" "Vinita1@nctu.edu" 78
+insert into user 4244 "Sallyanne1" "Sallyanne1@nctu.edu" 66
+insert into user 22852 "Loree0" "Loree0@nctu.edu" 38
+insert into user 2479 "Joelynn0" "Joelynn0@nctu.edu" 60
+insert into user 13425 "Mignonne0" "Mignonne0@nctu.edu" 52
+insert into user 10820 "Charmain2" "Charmain2@nctu.edu" 27
+insert into user 7137 "Holly-Anne2" "Holly-Anne2@nctu.edu" 72
+insert into user 17004 "Hermione2" "Hermione2@nctu.edu" 43
+insert into user 12866 "Lianna0" "Lianna0@nctu.edu" 77
+insert into user 5007 "Agatha2" "Agatha2@nctu.edu" 54
+insert into user 24650 "Wini2" "Wini2@nctu.edu" 60
+insert into user 19120 "Seka0" "Seka0@nctu.edu" 65
+insert into user 21333 "Elfie1" "Elfie1@nctu.edu" 81
+insert into user 1656 "Enrichetta0" "Enrichetta0@nctu.edu" 66
+insert into user 15978 "Cory0" "Cory0@nctu.edu" 83
+insert into user 18680 "Orelle1" "Orelle1@nctu.edu" 45
+insert into user 6725 "Faythe0" "Faythe0@nctu.edu" 75
+insert into user 15341 "Beitris2" "Beitris2@nctu.edu" 77
+insert into user 22716 "Leoine2" "Leoine2@nctu.edu" 79
+insert into user 21106 "Delphinia1" "Delphinia1@nctu.edu" 84
+insert into user 9269 "Shara2" "Shara2@nctu.edu" 80
+insert into user 5943 "Chrysler1" "Chrysler1@nctu.edu" 59
+insert into user 11997 "Hanny1" "Hanny1@nctu.edu" 72
+insert into user 11499 "Elvina0" "Elvina0@nctu.edu" 54
+insert into user 1179 "Cynthia2" "Cynthia2@nctu.edu" 66
+insert into user 23948 "Roseanne2" "Roseanne2@nctu.edu" 56
+insert into user 17974 "Lurleen0" "Lurleen0@nctu.edu" 51
+insert into user 5200 "Andriana0" "Andriana0@nctu.edu" 57
+insert into user 15225 "Arlyn2" "Arlyn2@nctu.edu" 29
+insert into user 9867 "Zea2" "Zea2@nctu.edu" 89
+insert into user 22290 "Jorie1" "Jorie1@nctu.edu" 35
+insert into user 16785 "Germana2" "Germana2@nctu.edu" 68
+insert into user 13701 "Olia0" "Olia0@nctu.edu" 44
+insert into user 19664 "Vonny0" "Vonny0@nctu.edu" 29
+insert into user 11204 "Delia1" "Delia1@nctu.edu" 87
+insert into user 3949 "Phyllis2" "Phyllis2@nctu.edu" 90
+insert into user 19807 "Adelaide0" "Adelaide0@nctu.edu" 29
+insert into user 11440 "Elenore1" "Elenore1@nctu.edu" 37
+insert into user 20708 "Charlotta1" "Charlotta1@nctu.edu" 87
+insert into user 15343 "Bel0" "Bel0@nctu.edu" 41
+insert into user 11770 "Gabbi1" "Gabbi1@nctu.edu" 81
+insert into user 2141 "Heida1" "Heida1@nctu.edu" 26
+insert into user 20483 "Brittney2" "Brittney2@nctu.edu" 54
+insert into user 11059 "Cyb0" "Cyb0@nctu.edu" 37
+insert into user 434 "Augustine1" "Augustine1@nctu.edu" 32
+insert into user 10664 "Cariotta1" "Cariotta1@nctu.edu" 34
+insert into user 10312 "Audi2" "Audi2@nctu.edu" 85
+insert into user 13033 "Luz0" "Luz0@nctu.edu" 31
+insert into user 15046 "Amargo2" "Amargo2@nctu.edu" 63
+insert into user 21490 "Ettie1" "Ettie1@nctu.edu" 55
+insert into user 93 "Ainslee1" "Ainslee1@nctu.edu" 41
+insert into user 2057 "Gui0" "Gui0@nctu.edu" 21
+insert into user 3267 "Margalit0" "Margalit0@nctu.edu" 25
+insert into user 20089 "Anneliese2" "Anneliese2@nctu.edu" 39
+insert into user 1043 "Claudina2" "Claudina2@nctu.edu" 40
+insert into user 12928 "Liuka2" "Liuka2@nctu.edu" 83
+insert into user 8249 "Marie0" "Marie0@nctu.edu" 71
+insert into user 10747 "Catherin1" "Catherin1@nctu.edu" 90
+insert into user 3870 "Paola2" "Paola2@nctu.edu" 75
+insert into user 20636 "Cathee1" "Cathee1@nctu.edu" 60
+insert into user 12767 "Lauree0" "Lauree0@nctu.edu" 48
+insert into user 9294 "Shayne0" "Shayne0@nctu.edu" 78
+insert into user 9197 "Sammy2" "Sammy2@nctu.edu" 43
+insert into user 14523 "Tiffie2" "Tiffie2@nctu.edu" 69
+insert into user 9013 "Rheta0" "Rheta0@nctu.edu" 83
+insert into user 18541 "Nerissa1" "Nerissa1@nctu.edu" 63
+insert into user 6257 "Delcina0" "Delcina0@nctu.edu" 77
+insert into user 7057 "Harlie2" "Harlie2@nctu.edu" 46
+insert into user 9513 "Tate1" "Tate1@nctu.edu" 71
+insert into user 3256 "Marci2" "Marci2@nctu.edu" 41
+insert into user 375 "Arlee1" "Arlee1@nctu.edu" 27
+insert into user 7177 "Imojean2" "Imojean2@nctu.edu" 70
+insert into user 12585 "Katusha0" "Katusha0@nctu.edu" 51
+insert into user 12341 "Joann1" "Joann1@nctu.edu" 85
+insert into user 17929 "Lorraine1" "Lorraine1@nctu.edu" 22
+insert into user 21329 "Eleni2" "Eleni2@nctu.edu" 74
+insert into user 9422 "Stephine2" "Stephine2@nctu.edu" 86
+insert into user 3834 "Ora0" "Ora0@nctu.edu" 38
+insert into user 9897 "Abbie0" "Abbie0@nctu.edu" 32
+insert into user 23735 "Pierrette0" "Pierrette0@nctu.edu" 87
+insert into user 18843 "Randy0" "Randy0@nctu.edu" 33
+insert into user 6090 "Cosette0" "Cosette0@nctu.edu" 64
+insert into user 10522 "Blondy0" "Blondy0@nctu.edu" 52
+insert into user 18096 "Marcy1" "Marcy1@nctu.edu" 62
+insert into user 5957 "Cindra2" "Cindra2@nctu.edu" 66
+insert into user 17225 "Jeniece0" "Jeniece0@nctu.edu" 55
+insert into user 3844 "Orella2" "Orella2@nctu.edu" 64
+insert into user 11056 "Crystal0" "Crystal0@nctu.edu" 71
+insert into user 16048 "Danice0" "Danice0@nctu.edu" 25
+insert into user 22188 "Jeri2" "Jeri2@nctu.edu" 78
+insert into user 463 "Bab1" "Bab1@nctu.edu" 20
+insert into user 5689 "Camille0" "Camille0@nctu.edu" 21
+insert into user 22963 "Madelaine0" "Madelaine0@nctu.edu" 88
+insert into user 10426 "Bernadina2" "Bernadina2@nctu.edu" 74
+insert into user 12109 "Ileane2" "Ileane2@nctu.edu" 41
+insert into user 8022 "Lorena1" "Lorena1@nctu.edu" 38
+insert into user 13315 "Maxine2" "Maxine2@nctu.edu" 69
+insert into user 169 "Allyn1" "Allyn1@nctu.edu" 85
+insert into user 20926 "Costanza1" "Costanza1@nctu.edu" 74
+insert into user 9851 "Yolane2" "Yolane2@nctu.edu" 81
+insert into user 23390 "Morgana2" "Morgana2@nctu.edu" 77
+insert into user 15092 "Andromache1" "Andromache1@nctu.edu" 46
+insert into user 7174 "Imelda0" "Imelda0@nctu.edu" 24
+insert into user 9386 "Sonya1" "Sonya1@nctu.edu" 25
+insert into user 795 "Carlynne0" "Carlynne0@nctu.edu" 40
+insert into user 5096 "Alix1" "Alix1@nctu.edu" 51
+insert into user 8183 "Malynda1" "Malynda1@nctu.edu" 26
+insert into user 7730 "Kittie1" "Kittie1@nctu.edu" 41
+insert into user 1959 "Gertrud0" "Gertrud0@nctu.edu" 65
+insert into user 7895 "Lesley2" "Lesley2@nctu.edu" 82
+insert into user 22090 "Jaimie0" "Jaimie0@nctu.edu" 88
+insert into user 2808 "Kris1" "Kris1@nctu.edu" 49
+insert into user 23475 "Neila2" "Neila2@nctu.edu" 73
+insert into user 12213 "Janeczka2" "Janeczka2@nctu.edu" 70
+insert into user 17308 "Joell1" "Joell1@nctu.edu" 85
+insert into user 8707 "Noelani0" "Noelani0@nctu.edu" 57
+insert into user 1127 "Corly1" "Corly1@nctu.edu" 22
+insert into user 15921 "Constancia1" "Constancia1@nctu.edu" 70
+insert into user 2584 "Kala1" "Kala1@nctu.edu" 28
+insert into user 14744 "Willa0" "Willa0@nctu.edu" 63
+insert into user 1482 "Dulcie0" "Dulcie0@nctu.edu" 29
+insert into user 7238 "Jacky0" "Jacky0@nctu.edu" 57
+insert into user 10477 "Beverlee2" "Beverlee2@nctu.edu" 62
+insert into user 140 "Alie2" "Alie2@nctu.edu" 71
+insert into user 3817 "Oliy2" "Oliy2@nctu.edu" 46
+insert into user 21997 "Idette2" "Idette2@nctu.edu" 46
+insert into user 3886 "Paulette0" "Paulette0@nctu.edu" 19
+insert into user 11098 "Danella1" "Danella1@nctu.edu" 45
+insert into user 18244 "Maude2" "Maude2@nctu.edu" 28
+insert into user 19038 "Rozanna1" "Rozanna1@nctu.edu" 36
+insert into user 6379 "Dorian2" "Dorian2@nctu.edu" 54
+insert into user 14067 "Rosemonde2" "Rosemonde2@nctu.edu" 78
+insert into user 14565 "Tori0" "Tori0@nctu.edu" 49
+insert into user 5993 "Clementia2" "Clementia2@nctu.edu" 49
+insert into user 22436 "Kat1" "Kat1@nctu.edu" 82
+insert into user 5939 "Christy2" "Christy2@nctu.edu" 53
+insert into user 4256 "Sandra2" "Sandra2@nctu.edu" 51
+insert into user 9591 "Timothea1" "Timothea1@nctu.edu" 78
+insert into user 5286 "Aprilette0" "Aprilette0@nctu.edu" 80
+insert into user 17598 "Kimmie2" "Kimmie2@nctu.edu" 24
+insert into user 12802 "Leela1" "Leela1@nctu.edu" 85
+insert into user 12620 "Keri1" "Keri1@nctu.edu" 36
+insert into user 10830 "Chelsea0" "Chelsea0@nctu.edu" 41
+insert into user 15559 "Caitlin1" "Caitlin1@nctu.edu" 60
+insert into user 19349 "Sybille2" "Sybille2@nctu.edu" 65
+insert into user 4290 "Selia1" "Selia1@nctu.edu" 37
+insert into user 15469 "Bobbe2" "Bobbe2@nctu.edu" 37
+insert into user 15390 "Bertha2" "Bertha2@nctu.edu" 45
+insert into user 23982 "Rozamond2" "Rozamond2@nctu.edu" 27
+insert into user 8199 "Marcelline2" "Marcelline2@nctu.edu" 40
+insert into user 14271 "Sherrie0" "Sherrie0@nctu.edu" 34
+insert into user 18220 "Marybelle0" "Marybelle0@nctu.edu" 55
+insert into user 12968 "Lorene1" "Lorene1@nctu.edu" 56
+insert into user 5574 "Blondell1" "Blondell1@nctu.edu" 22
+insert into user 8719 "Nona0" "Nona0@nctu.edu" 40
+insert into user 22813 "Lissa2" "Lissa2@nctu.edu" 67
+insert into user 1422 "Dore1" "Dore1@nctu.edu" 75
+insert into user 1757 "Fanny2" "Fanny2@nctu.edu" 54
+insert into user 23624 "Orella2" "Orella2@nctu.edu" 47
+insert into user 22693 "Leelah0" "Leelah0@nctu.edu" 46
+insert into user 14478 "Teresita0" "Teresita0@nctu.edu" 54
+insert into user 9165 "Ruthe1" "Ruthe1@nctu.edu" 47
+insert into user 1946 "Gerianne1" "Gerianne1@nctu.edu" 59
+insert into user 81 "Aileen2" "Aileen2@nctu.edu" 63
+insert into user 1527 "Edythe0" "Edythe0@nctu.edu" 41
+insert into user 1312 "Delcina0" "Delcina0@nctu.edu" 45
+insert into user 6784 "Florrie1" "Florrie1@nctu.edu" 30
+insert into user 3060 "Lona1" "Lona1@nctu.edu" 86
+insert into user 13023 "Luise0" "Luise0@nctu.edu" 76
+insert into user 18631 "Odelia2" "Odelia2@nctu.edu" 39
+insert into user 24605 "Vivyan2" "Vivyan2@nctu.edu" 35
+insert into user 8412 "Melita2" "Melita2@nctu.edu" 71
+insert into user 23774 "Rahal2" "Rahal2@nctu.edu" 41
+insert into user 6149 "Damaris2" "Damaris2@nctu.edu" 28
+insert into user 19354 "Sylvia0" "Sylvia0@nctu.edu" 29
+insert into user 851 "Caterina0" "Caterina0@nctu.edu" 53
+insert into user 3396 "Maryrose1" "Maryrose1@nctu.edu" 89
+insert into user 18190 "Marna2" "Marna2@nctu.edu" 87
+insert into user 4317 "Shanna1" "Shanna1@nctu.edu" 44
+insert into user 23434 "Nance1" "Nance1@nctu.edu" 81
+insert into user 19440 "Thalia2" "Thalia2@nctu.edu" 90
+insert into user 8560 "Morissa2" "Morissa2@nctu.edu" 25
+insert into user 22400 "Karisa0" "Karisa0@nctu.edu" 47
+insert into user 24139 "Sheilah0" "Sheilah0@nctu.edu" 86
+insert into user 20144 "Ardys2" "Ardys2@nctu.edu" 38
+insert into user 9871 "Zenia0" "Zenia0@nctu.edu" 46
+insert into user 17311 "Joellen0" "Joellen0@nctu.edu" 46
+insert into user 9715 "Verile0" "Verile0@nctu.edu" 29
+insert into user 20905 "Corissa1" "Corissa1@nctu.edu" 46
+insert into user 22237 "Jobie1" "Jobie1@nctu.edu" 41
+insert into user 5428 "Barbi1" "Barbi1@nctu.edu" 51
+insert into user 10474 "Beulah1" "Beulah1@nctu.edu" 20
+insert into user 3136 "Lulu2" "Lulu2@nctu.edu" 52
+insert into user 248 "Andie1" "Andie1@nctu.edu" 33
+insert into user 9812 "Wilone0" "Wilone0@nctu.edu" 76
+insert into user 5902 "Cherlyn0" "Cherlyn0@nctu.edu" 19
+insert into user 11448 "Elianora1" "Elianora1@nctu.edu" 80
+insert into user 10120 "Amye2" "Amye2@nctu.edu" 22
+insert into user 14014 "Rodi0" "Rodi0@nctu.edu" 57
+insert into user 21919 "Hedwiga2" "Hedwiga2@nctu.edu" 82
+insert into user 16700 "Freddie1" "Freddie1@nctu.edu" 81
+insert into user 16175 "Denys2" "Denys2@nctu.edu" 34
+insert into user 9687 "Valerye1" "Valerye1@nctu.edu" 19
+insert into user 11394 "Ebba0" "Ebba0@nctu.edu" 87
+insert into user 12875 "Lidia2" "Lidia2@nctu.edu" 67
+insert into user 22932 "Lyndsay2" "Lyndsay2@nctu.edu" 42
+insert into user 8047 "Lotte2" "Lotte2@nctu.edu" 85
+insert into user 1886 "Gabriela0" "Gabriela0@nctu.edu" 75
+insert into user 24030 "Samara1" "Samara1@nctu.edu" 81
+insert into user 16241 "Donelle1" "Donelle1@nctu.edu" 73
+insert into user 5131 "Alvinia2" "Alvinia2@nctu.edu" 74
+insert into user 18065 "Malissia2" "Malissia2@nctu.edu" 59
+insert into user 16634 "Fernande0" "Fernande0@nctu.edu" 49
+insert into user 12834 "Leonora2" "Leonora2@nctu.edu" 19
+insert into user 13275 "Marybelle1" "Marybelle1@nctu.edu" 38
+insert into user 3776 "Noni0" "Noni0@nctu.edu" 47
+insert into user 13643 "Ninon2" "Ninon2@nctu.edu" 37
+insert into user 19124 "Selestina2" "Selestina2@nctu.edu" 53
+insert into user 18241 "Mattie2" "Mattie2@nctu.edu" 48
+insert into user 12053 "Henryetta0" "Henryetta0@nctu.edu" 39
+insert into user 22156 "Jeannine2" "Jeannine2@nctu.edu" 52
+insert into user 4350 "Shea2" "Shea2@nctu.edu" 63
+insert into user 3182 "Madel2" "Madel2@nctu.edu" 24
+insert into user 10184 "Annabela1" "Annabela1@nctu.edu" 39
+insert into user 21721 "Geraldine0" "Geraldine0@nctu.edu" 79
+insert into user 23964 "Rosita0" "Rosita0@nctu.edu" 73
+insert into user 4126 "Rodina2" "Rodina2@nctu.edu" 77
+insert into user 14053 "Rosanna0" "Rosanna0@nctu.edu" 88
+insert into user 16378 "Eleanora2" "Eleanora2@nctu.edu" 27
+insert into user 13515 "Mureil2" "Mureil2@nctu.edu" 74
+insert into user 15820 "Christen2" "Christen2@nctu.edu" 50
+insert into user 2278 "Ivory1" "Ivory1@nctu.edu" 46
+insert into user 6874 "Georgena0" "Georgena0@nctu.edu" 22
+insert into user 860 "Cathi0" "Cathi0@nctu.edu" 52
+insert into user 5991 "Clem1" "Clem1@nctu.edu" 47
+insert into user 8676 "Nicky0" "Nicky0@nctu.edu" 45
+insert into user 1830 "Florette1" "Florette1@nctu.edu" 61
+insert into user 16933 "Halli2" "Halli2@nctu.edu" 41
+insert into user 1999 "Giulia0" "Giulia0@nctu.edu" 31
+insert into user 16123 "Debee2" "Debee2@nctu.edu" 89
+insert into user 5367 "Audi1" "Audi1@nctu.edu" 81
+insert into user 4227 "Sabina1" "Sabina1@nctu.edu" 77
+insert into user 141 "Alika2" "Alika2@nctu.edu" 70
+insert into user 16756 "Gennie0" "Gennie0@nctu.edu" 69
+insert into user 8448 "Merola1" "Merola1@nctu.edu" 18
+insert into user 10231 "Aprilette2" "Aprilette2@nctu.edu" 68
+insert into user 1660 "Eolande0" "Eolande0@nctu.edu" 53
+insert into user 11099 "Danette2" "Danette2@nctu.edu" 44
+insert into user 8045 "Lory0" "Lory0@nctu.edu" 59
+insert into user 13797 "Penni1" "Penni1@nctu.edu" 63
+insert into user 10372 "Barbey2" "Barbey2@nctu.edu" 20
+insert into user 18052 "Mair0" "Mair0@nctu.edu" 41
+insert into user 8646 "Nell2" "Nell2@nctu.edu" 68
+insert into user 20289 "Belia0" "Belia0@nctu.edu" 83
+insert into user 17603 "Kippie1" "Kippie1@nctu.edu" 50
+insert into user 19227 "Shirline0" "Shirline0@nctu.edu" 26
+insert into user 1519 "Edith1" "Edith1@nctu.edu" 37
+insert into user 20944 "Cristy1" "Cristy1@nctu.edu" 31
+insert into user 8501 "Mindy2" "Mindy2@nctu.edu" 24
+insert into user 1876 "Frieda2" "Frieda2@nctu.edu" 34
+insert into user 13662 "Nollie0" "Nollie0@nctu.edu" 67
+insert into user 20086 "Anne-Corinne2" "Anne-Corinne2@nctu.edu" 79
+insert into user 14696 "Virginia1" "Virginia1@nctu.edu" 70
+insert into user 9824 "Winona2" "Winona2@nctu.edu" 85
+insert into user 22866 "Lorie1" "Lorie1@nctu.edu" 83
+insert into user 20471 "Brita1" "Brita1@nctu.edu" 46
+insert into user 11407 "Edin1" "Edin1@nctu.edu" 35
+insert into user 568 "Bethanne0" "Bethanne0@nctu.edu" 23
+insert into user 16158 "Deloria0" "Deloria0@nctu.edu" 84
+insert into user 11246 "Devonne0" "Devonne0@nctu.edu" 57
+insert into user 651 "Brana2" "Brana2@nctu.edu" 39
+insert into user 13568 "Natalee1" "Natalee1@nctu.edu" 31
+insert into user 5868 "Charleen0" "Charleen0@nctu.edu" 88
+insert into user 5954 "Cinderella0" "Cinderella0@nctu.edu" 75
+insert into user 5682 "Camel0" "Camel0@nctu.edu" 31
+insert into user 7003 "Guillema0" "Guillema0@nctu.edu" 48
+insert into user 1460 "Doti0" "Doti0@nctu.edu" 58
+insert into user 20966 "Dael2" "Dael2@nctu.edu" 61
+insert into user 6295 "Devin2" "Devin2@nctu.edu" 28
+insert into user 4782 "Vicki1" "Vicki1@nctu.edu" 38
+insert into user 18198 "Marris1" "Marris1@nctu.edu" 71
+insert into user 9101 "Rosalinde1" "Rosalinde1@nctu.edu" 81
+insert into user 2958 "Letisha2" "Letisha2@nctu.edu" 64
+insert into user 10829 "Chelsae0" "Chelsae0@nctu.edu" 88
+insert into user 11532 "Emmalynn2" "Emmalynn2@nctu.edu" 71
+insert into user 2135 "Hedi0" "Hedi0@nctu.edu" 22
+insert into user 9667 "Ursola1" "Ursola1@nctu.edu" 47
+insert into user 37 "Adey0" "Adey0@nctu.edu" 46
+insert into user 4203 "Rozanna2" "Rozanna2@nctu.edu" 88
+insert into user 24273 "Susan2" "Susan2@nctu.edu" 54
+insert into user 22285 "Jordan2" "Jordan2@nctu.edu" 42
+insert into user 13322 "Meagan0" "Meagan0@nctu.edu" 58
+insert into user 13198 "Mariejeanne2" "Mariejeanne2@nctu.edu" 49
+insert into user 21018 "Darcey2" "Darcey2@nctu.edu" 22
+insert into user 6937 "Gipsy2" "Gipsy2@nctu.edu" 25
+insert into user 16781 "Gerianne1" "Gerianne1@nctu.edu" 53
+insert into user 15623 "Carlita2" "Carlita2@nctu.edu" 39
+insert into user 1800 "Fernandina2" "Fernandina2@nctu.edu" 51
+insert into user 16864 "Goldie0" "Goldie0@nctu.edu" 72
+insert into user 14261 "Shelly1" "Shelly1@nctu.edu" 45
+insert into user 23892 "Robinett1" "Robinett1@nctu.edu" 88
+insert into user 274 "Angelita0" "Angelita0@nctu.edu" 41
+insert into user 7248 "Jacquette1" "Jacquette1@nctu.edu" 90
+insert into user 1797 "Fern0" "Fern0@nctu.edu" 41
+insert into user 18309 "Mellisent0" "Mellisent0@nctu.edu" 77
+insert into user 5990 "Clea1" "Clea1@nctu.edu" 53
+insert into user 10580 "Brit2" "Brit2@nctu.edu" 61
+insert into user 20054 "Angelita2" "Angelita2@nctu.edu" 35
+insert into user 14163 "Sarita0" "Sarita0@nctu.edu" 53
+insert into user 17221 "Jenda1" "Jenda1@nctu.edu" 20
+insert into user 23005 "Malia0" "Malia0@nctu.edu" 23
+insert into user 24112 "Sharlene1" "Sharlene1@nctu.edu" 54
+insert into user 18086 "Marcella2" "Marcella2@nctu.edu" 36
+insert into user 2276 "Ivie2" "Ivie2@nctu.edu" 63
+insert into user 12395 "Jordan2" "Jordan2@nctu.edu" 29
+insert into user 19583 "Valma2" "Valma2@nctu.edu" 84
+insert into user 18281 "Mel0" "Mel0@nctu.edu" 67
+insert into user 17363 "Joyan0" "Joyan0@nctu.edu" 45
+insert into user 20672 "Celestia2" "Celestia2@nctu.edu" 33
+insert into user 15812 "Christa2" "Christa2@nctu.edu" 89
+insert into user 8328 "Maryanna0" "Maryanna0@nctu.edu" 61
+insert into user 15605 "Carilyn0" "Carilyn0@nctu.edu" 32
+insert into user 2557 "Julina2" "Julina2@nctu.edu" 60
+insert into user 12567 "Kathrine2" "Kathrine2@nctu.edu" 54
+insert into user 14712 "Viviene0" "Viviene0@nctu.edu" 85
+insert into user 5085 "Alie1" "Alie1@nctu.edu" 77
+insert into user 8713 "Noemi1" "Noemi1@nctu.edu" 48
+insert into user 14096 "Rozele2" "Rozele2@nctu.edu" 67
+insert into user 18722 "Pauli2" "Pauli2@nctu.edu" 25
+insert into user 4685 "Tracy1" "Tracy1@nctu.edu" 77
+insert into user 6662 "Eulalie1" "Eulalie1@nctu.edu" 61
+insert into user 7267 "Janean0" "Janean0@nctu.edu" 36
+insert into user 4272 "Sarine2" "Sarine2@nctu.edu" 31
+insert into user 18802 "Priscella2" "Priscella2@nctu.edu" 56
+insert into user 8034 "Lorinda2" "Lorinda2@nctu.edu" 38
+insert into user 16118 "Deanne1" "Deanne1@nctu.edu" 83
+insert into user 14454 "Tarrah0" "Tarrah0@nctu.edu" 49
+insert into user 2772 "Kirbie1" "Kirbie1@nctu.edu" 32
+insert into user 22028 "Inna2" "Inna2@nctu.edu" 18
+insert into user 21500 "Eustacia2" "Eustacia2@nctu.edu" 67
+insert into user 13131 "Manda2" "Manda2@nctu.edu" 69
+insert into user 5696 "Candida2" "Candida2@nctu.edu" 59
+insert into user 709 "Brunhilde0" "Brunhilde0@nctu.edu" 19
+insert into user 13468 "Mirella1" "Mirella1@nctu.edu" 64
+insert into user 3948 "Phyllida0" "Phyllida0@nctu.edu" 88
+insert into user 8619 "Nariko1" "Nariko1@nctu.edu" 26
+insert into user 17393 "Juline1" "Juline1@nctu.edu" 48
+insert into user 3939 "Philippine0" "Philippine0@nctu.edu" 80
+insert into user 10881 "Christin1" "Christin1@nctu.edu" 68
+insert into user 19597 "Venita2" "Venita2@nctu.edu" 54
+insert into user 19627 "Vin2" "Vin2@nctu.edu" 58
+insert into user 8355 "Maudie0" "Maudie0@nctu.edu" 62
+insert into user 5475 "Berenice0" "Berenice0@nctu.edu" 48
+insert into user 17255 "Jessamine2" "Jessamine2@nctu.edu" 37
+insert into user 4730 "Vale2" "Vale2@nctu.edu" 53
+insert into user 13001 "Loutitia1" "Loutitia1@nctu.edu" 22
+insert into user 2272 "Issie2" "Issie2@nctu.edu" 59
+insert into user 5702 "Caprice2" "Caprice2@nctu.edu" 28
+insert into user 14260 "Shellie0" "Shellie0@nctu.edu" 53
+insert into user 16511 "Erminia2" "Erminia2@nctu.edu" 70
+insert into user 3679 "Natalie2" "Natalie2@nctu.edu" 46
+insert into user 9899 "Abbye1" "Abbye1@nctu.edu" 52
+insert into user 7684 "Kesley2" "Kesley2@nctu.edu" 42
+insert into user 13960 "Rhiamon0" "Rhiamon0@nctu.edu" 80
+insert into user 12150 "Isa2" "Isa2@nctu.edu" 71
+insert into user 4402 "Sibella0" "Sibella0@nctu.edu" 85
+insert into user 10782 "Celestia0" "Celestia0@nctu.edu" 73
+insert into user 10261 "Ariela1" "Ariela1@nctu.edu" 52
+insert into user 18124 "Marguerite0" "Marguerite0@nctu.edu" 42
+insert into user 3711 "Nerti2" "Nerti2@nctu.edu" 27
+insert into user 7304 "Jasmine0" "Jasmine0@nctu.edu" 25
+insert into user 4248 "Sam2" "Sam2@nctu.edu" 39
+insert into user 17307 "Joelie0" "Joelie0@nctu.edu" 23
+insert into user 273 "Angelique2" "Angelique2@nctu.edu" 89
+insert into user 4967 "Addie1" "Addie1@nctu.edu" 81
+insert into user 5752 "Carmine1" "Carmine1@nctu.edu" 83
+insert into user 2240 "Ingaberg2" "Ingaberg2@nctu.edu" 82
+insert into user 2867 "Latashia0" "Latashia0@nctu.edu" 82
+insert into user 13010 "Lucilia1" "Lucilia1@nctu.edu" 34
+insert into user 15852 "Clair0" "Clair0@nctu.edu" 76
+insert into user 10162 "Angeline2" "Angeline2@nctu.edu" 82
+insert into user 13588 "Neille1" "Neille1@nctu.edu" 90
+insert into user 10011 "Alexandra1" "Alexandra1@nctu.edu" 59
+insert into user 8178 "Mallory0" "Mallory0@nctu.edu" 69
+insert into user 18346 "Merrill1" "Merrill1@nctu.edu" 90
+insert into user 11236 "Desiri2" "Desiri2@nctu.edu" 76
+insert into user 99 "Alana1" "Alana1@nctu.edu" 62
+insert into user 14192 "Shae0" "Shae0@nctu.edu" 32
+insert into user 15368 "Berna0" "Berna0@nctu.edu" 59
+insert into user 10769 "Cayla2" "Cayla2@nctu.edu" 31
+insert into user 5544 "Biddy2" "Biddy2@nctu.edu" 85
+insert into user 13176 "Margo2" "Margo2@nctu.edu" 41
+insert into user 20712 "Charmane1" "Charmane1@nctu.edu" 72
+insert into user 21582 "Fey2" "Fey2@nctu.edu" 37
+insert into user 11529 "Emmalee1" "Emmalee1@nctu.edu" 22
+insert into user 8362 "Maurise0" "Maurise0@nctu.edu" 37
+insert into user 11725 "Florina2" "Florina2@nctu.edu" 19
+insert into user 2098 "Halli2" "Halli2@nctu.edu" 30
+insert into user 11377 "Dusty0" "Dusty0@nctu.edu" 65
+insert into user 11009 "Corilla2" "Corilla2@nctu.edu" 26
+insert into user 2814 "Kriste0" "Kriste0@nctu.edu" 66
+insert into user 5691 "Cammie1" "Cammie1@nctu.edu" 39
+insert into user 5266 "Annnora2" "Annnora2@nctu.edu" 59
+insert into user 19348 "Sybilla2" "Sybilla2@nctu.edu" 64
+insert into user 16832 "Giselle1" "Giselle1@nctu.edu" 19
+insert into user 12653 "Kimmie0" "Kimmie0@nctu.edu" 53
+insert into user 7501 "Juliette0" "Juliette0@nctu.edu" 39
+insert into user 4184 "Rosita1" "Rosita1@nctu.edu" 81
+insert into user 620 "Blanch1" "Blanch1@nctu.edu" 66
+insert into user 19614 "Veronique0" "Veronique0@nctu.edu" 88
+insert into user 15272 "Aurea2" "Aurea2@nctu.edu" 46
+insert into user 10742 "Catha2" "Catha2@nctu.edu" 31
+insert into user 24538 "Vanya2" "Vanya2@nctu.edu" 31
+insert into user 20406 "Bliss1" "Bliss1@nctu.edu" 73
+insert into user 546 "Bernie2" "Bernie2@nctu.edu" 85
+insert into user 6901 "Gerta1" "Gerta1@nctu.edu" 34
+insert into user 12648 "Kimberli1" "Kimberli1@nctu.edu" 37
+insert into user 22441 "Katerina1" "Katerina1@nctu.edu" 35
+insert into user 15415 "Bettina0" "Bettina0@nctu.edu" 35
+insert into user 7338 "Jenilee1" "Jenilee1@nctu.edu" 86
+insert into user 4809 "Vitia2" "Vitia2@nctu.edu" 73
+insert into user 8691 "Nikoletta1" "Nikoletta1@nctu.edu" 56
+insert into user 370 "Ariel1" "Ariel1@nctu.edu" 70
+insert into user 22530 "Kial1" "Kial1@nctu.edu" 64
+insert into user 6087 "Cortney2" "Cortney2@nctu.edu" 61
+insert into user 15941 "Cordi1" "Cordi1@nctu.edu" 35
+insert into user 18890 "Rene2" "Rene2@nctu.edu" 43
+insert into user 12480 "Kalinda0" "Kalinda0@nctu.edu" 28
+insert into user 21996 "Idelle2" "Idelle2@nctu.edu" 52
+insert into user 23625 "Orelle1" "Orelle1@nctu.edu" 86
+insert into user 5625 "Brigid0" "Brigid0@nctu.edu" 48
+insert into user 8879 "Phelia1" "Phelia1@nctu.edu" 62
+insert into user 3384 "Maryanne2" "Maryanne2@nctu.edu" 51
+insert into user 12423 "Jsandye1" "Jsandye1@nctu.edu" 62
+insert into user 24184 "Sibilla0" "Sibilla0@nctu.edu" 87
+insert into user 4542 "Tami0" "Tami0@nctu.edu" 52
+insert into user 24317 "Tamar1" "Tamar1@nctu.edu" 80
+insert into user 15945 "Coreen1" "Coreen1@nctu.edu" 63
+insert into user 4141 "Roobbie0" "Roobbie0@nctu.edu" 31
+insert into user 15466 "Blondie0" "Blondie0@nctu.edu" 38
+insert into user 18785 "Phyllys1" "Phyllys1@nctu.edu" 67
+insert into user 777 "Caritta2" "Caritta2@nctu.edu" 40
+insert into user 16375 "Elbertina1" "Elbertina1@nctu.edu" 48
+insert into user 7179 "Indira1" "Indira1@nctu.edu" 25
+insert into user 18028 "Madelyn2" "Madelyn2@nctu.edu" 54
+insert into user 14695 "Virgina0" "Virgina0@nctu.edu" 33
+insert into user 2105 "Hannie2" "Hannie2@nctu.edu" 76
+insert into user 11167 "Dayna1" "Dayna1@nctu.edu" 46
+insert into user 8967 "Raychel1" "Raychel1@nctu.edu" 61
+insert into user 11241 "Devina1" "Devina1@nctu.edu" 41
+insert into user 18670 "Oralee0" "Oralee0@nctu.edu" 24
+insert into user 15500 "Brena0" "Brena0@nctu.edu" 85
+insert into user 15059 "Amii2" "Amii2@nctu.edu" 82
+insert into user 8107 "Lynne0" "Lynne0@nctu.edu" 49
+insert into user 20654 "Catlin0" "Catlin0@nctu.edu" 72
+insert into user 9304 "Sheilah0" "Sheilah0@nctu.edu" 79
+insert into user 5703 "Cara2" "Cara2@nctu.edu" 90
+insert into user 1854 "Francyne1" "Francyne1@nctu.edu" 52
+insert into user 24451 "Tonya1" "Tonya1@nctu.edu" 53
+insert into user 7798 "Lanie2" "Lanie2@nctu.edu" 61
+insert into user 1074 "Collie0" "Collie0@nctu.edu" 41
+insert into user 4890 "Xenia0" "Xenia0@nctu.edu" 51
+insert into user 10472 "Betty2" "Betty2@nctu.edu" 21
+insert into user 11493 "Elsie0" "Elsie0@nctu.edu" 29
+insert into user 21768 "Ginnifer0" "Ginnifer0@nctu.edu" 48
+insert into user 23020 "Mamie0" "Mamie0@nctu.edu" 49
+insert into user 22254 "Joella0" "Joella0@nctu.edu" 55
+insert into user 10510 "Blanch1" "Blanch1@nctu.edu" 31
+insert into user 1272 "Davine2" "Davine2@nctu.edu" 36
+insert into user 19410 "Tedda0" "Tedda0@nctu.edu" 83
+insert into user 7167 "Ilka1" "Ilka1@nctu.edu" 42
+insert into user 3309 "Mariel0" "Mariel0@nctu.edu" 86
+insert into user 18498 "Nanice1" "Nanice1@nctu.edu" 60
+insert into user 13333 "Meghann1" "Meghann1@nctu.edu" 30
+insert into user 19996 "Ame1" "Ame1@nctu.edu" 55
+insert into user 22669 "Laurie0" "Laurie0@nctu.edu" 35
+insert into user 21519 "Evvy2" "Evvy2@nctu.edu" 71
+insert into user 20030 "Andrea1" "Andrea1@nctu.edu" 84
+insert into user 7428 "Johannah2" "Johannah2@nctu.edu" 44
+insert into user 8757 "Olimpia2" "Olimpia2@nctu.edu" 80
+insert into user 1003 "Cicily1" "Cicily1@nctu.edu" 34
+insert into user 16321 "Dulsea0" "Dulsea0@nctu.edu" 19
+insert into user 21853 "Gwendolen0" "Gwendolen0@nctu.edu" 54
+insert into user 8993 "Reina1" "Reina1@nctu.edu" 68
+insert into user 6383 "Doris0" "Doris0@nctu.edu" 83
+insert into user 15433 "Biddie2" "Biddie2@nctu.edu" 19
+insert into like 12567 12802
+insert into like 23892 7501
+insert into like 4890 24139
+insert into like 9165 22716
+insert into like 19124 16241
+insert into like 20708 4809
+insert into like 10829 15500
+insert into like 22530 22716
+insert into like 15466 13001
+insert into like 6784 4317
+insert into like 10580 1460
+insert into like 11246 12802
+insert into like 18802 16864
+insert into like 5702 3384
+insert into like 13588 20636
+insert into like 1660 8757
+insert into like 4184 24538
+insert into like 1656 7895
+insert into like 24538 17603
+insert into like 20471 22285
+insert into like 12620 19440
+insert into like 8560 2867
+insert into like 5689 5131
+insert into like 23624 10829
+insert into like 4685 3267
+insert into like 8178 8249
+insert into like 9871 11529
+insert into like 5007 7003
+insert into like 19440 15341
+insert into like 18670 8646
+insert into like 16933 22963
+insert into like 2814 4317
+insert into like 4031 12109
+insert into like 23625 16048
+insert into like 6149 7304
+insert into like 10184 24139
+insert into like 21500 15343
+insert into like 375 18843
+insert into like 21997 17221
+insert into like 5475 15605
+insert into like 18541 12648
+insert into like 9013 17307
+insert into like 2057 17603
+insert into like 16118 18309
+insert into like 1460 13643
+insert into like 5625 21106
+insert into like 16864 16700
+insert into like 20636 14695
+insert into like 2278 16375
+insert into like 2135 22530
+insert into like 11770 14163
+insert into like 99 4967
+insert into like 12341 10261
+insert into like 4126 12341
+insert into like 2557 1830
+insert into like 3182 21018
+insert into like 13333 16933
+insert into like 9899 11059
+insert into like 3870 23624
+insert into like 14695 16241
+insert into like 13131 5200
+insert into like 37 2557
+insert into like 2105 15852
+insert into like 8328 4203
+insert into like 11725 21853
+insert into like 9513 17255
+insert into like 21018 15812
+insert into like 18190 23982
+insert into like 15605 19614
+insert into like 15368 8560
+insert into like 860 5703
+insert into like 8362 8879
+insert into like 18052 1757
+insert into like 10162 18281
+insert into like 18198 7895
+insert into like 20030 24635
+insert into like 20406 24650
+insert into like 12928 10011
+insert into like 13797 15559
+insert into like 5957 13797
+insert into like 24635 3948
+insert into like 9687 18052
+insert into like 7338 6662
+insert into like 22254 13588
+insert into like 24112 18281
+insert into like 19627 11009
+insert into like 14271 15605
+insert into like 7137 17225
+insert into like 9197 23005
+insert into like 14565 13315
+insert into like 3948 3886
+insert into like 18890 16832
+insert into like 11448 5096
+insert into like 1876 12585
+insert into like 2584 19120
+insert into like 4730 20636
+insert into like 2772 23390
+insert into like 19120 7177
+insert into like 9269 12585
+insert into like 1043 7730
+insert into like 3939 15433
+insert into like 10747 8183
+insert into like 10830 21490
+insert into like 22716 17363
+insert into like 24184 20406
+insert into like 10881 12866
+insert into like 10426 11056
+insert into like 2240 17199
+insert into like 620 13515
+insert into like 4244 4203
+insert into like 5428 7167
+insert into like 20289 4290
+insert into like 1999 10162
+insert into like 16781 18631
+insert into like 14744 10261
+insert into like 16375 17598
+insert into like 3817 5625
+insert into like 15415 13588
+insert into like 13001 10580
+insert into like 10261 6087
+insert into like 22932 11204
+insert into like 15046 11407
+insert into like 24451 4782
+insert into like 568 6937
+insert into like 17307 13033
+insert into like 16756 5367
+insert into like 81 21721
+insert into like 11440 16832
+insert into like 9304 24030
+insert into like 3834 5902
+insert into like 4141 13643
+insert into like 16158 8249
+insert into like 22852 5007
+insert into like 19807 5752
+insert into like 24273 18309
+insert into like 12834 15390
+insert into like 12802 14192
+insert into like 21919 8646
+insert into like 5752 22156
+insert into like 4290 9812
+insert into like 9591 8691
+insert into like 3679 12802
+insert into like 3886 2479
+insert into like 1830 13701
+insert into like 10742 5625
+insert into like 18631 18541
+insert into like 7133 16756
+insert into like 17311 17974
+insert into like 6725 22866
+insert into like 4272 18498
+insert into like 5990 5266
+insert into like 10664 18670
+insert into like 7174 4359
+insert into like 9898 17929
+insert into like 13425 3267
+insert into like 19597 19038
+insert into like 14696 5367
+insert into like 15559 13515
+insert into like 18220 11440
+insert into like 1482 9824
+insert into like 12150 9386
+insert into like 22156 15623
+insert into like 15852 7238
+insert into like 21721 20144
+insert into like 8646 1179
+insert into like 11099 5286
+insert into like 15945 17308
+insert into like 3136 23020
+insert into like 2276 11407
+insert into like 13023 24605
+insert into like 5085 11056
+insert into like 15978 12834
+insert into like 18309 18785
+insert into like 4317 2808
+insert into like 6874 11099
+insert into like 7798 18190
+insert into like 4402 2772
+insert into like 5991 11098
+insert into like 777 18498
+insert into like 23964 5703
+insert into like 8022 14014
+insert into like 20483 8560
+insert into like 4248 5943
+insert into like 7238 19627
+insert into like 169 13662
+insert into like 22436 7453
+insert into like 11056 7057
+insert into like 18065 17311
+insert into like 13568 19664
+insert into like 4967 18065
+insert into like 16700 22156
+insert into like 13198 10474
+insert into like 18124 12620
+insert into like 13315 851
+insert into like 8412 12423
+insert into like 17225 5993
+insert into like 14261 7730
+insert into like 22963 16700
+insert into like 14192 5544
+insert into like 17363 19440
+insert into like 22188 5007
+insert into like 12968 12866
+insert into like 1422 14565
+insert into like 11394 1811
+insert into like 3776 10011
+insert into like 10231 13588
+insert into like 16785 23892
+insert into like 17393 15059
+insert into like 15272 13588
+insert into like 15921 2557
+insert into like 8249 23774
+insert into like 1959 9715
+insert into like 11009 16375
+insert into like 1127 20483
+insert into like 11407 12620
+insert into like 1272 7730
+insert into like 20672 19807
+insert into like 12480 24139
+insert into like 9667 10747
+insert into like 10474 18890
+insert into like 93 24184
+insert into like 12585 23475
+insert into like 22866 23475
+insert into like 14523 8707
+insert into like 14712 19410
+insert into like 8993 4317
+insert into like 6901 9898
+insert into like 21106 10580
+insert into like 17255 24451
+insert into like 1074 22285
+insert into like 21329 3776
+insert into like 11204 6295
+insert into like 18241 15820
+insert into like 12767 10477
+insert into like 22290 2557
+insert into like 19996 10820
+insert into like 13643 11448
+insert into like 5850 4685
+insert into like 22237 24451
+insert into like 8713 6149
+insert into like 11532 20144
+insert into like 11059 5691
+insert into like 20086 14053
+insert into like 8757 13701
+insert into like 17362 19349
+insert into like 13515 13275
+insert into like 3949 8676
+insert into like 17974 18244
+insert into like 23774 10830
+insert into like 248 5286
+select count(*) from user join like on id = id1 where age < 53
+.exit
